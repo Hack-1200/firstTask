@@ -10,6 +10,8 @@ namespace firstTask
     {
         static void Main(string[] args)
         {
+
+
         }
     }
 }
